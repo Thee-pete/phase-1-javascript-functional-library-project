@@ -272,4 +272,5 @@ function arraysEqual(arrA, arrB) {
 
 function objectsEqual(objA, objB) {
   return (JSON.stringify(objA) === JSON.stringify(objB))
+  
 }
